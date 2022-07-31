@@ -10,7 +10,8 @@ h1 {
   text-align: center;
   color: lightyellow;
   padding: 20px;
-  font-family: cursive;
+  font-family:cursive;
+
 }
 
 body {
@@ -24,9 +25,10 @@ body {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: bold;
+ font-family: bold; 
   color: black;
   margin: 50px;
+  overflow: auto;
   
   
 
@@ -41,6 +43,7 @@ body {
   font-family: bold;
   color: black;
   margin: 50px;
+  overflow: hidden;
   
 }
 
@@ -53,6 +56,7 @@ body {
   font-family: bold;
   color: black;
   margin: 50px;
+  overflow: hidden;
   
 
 }
@@ -74,6 +78,7 @@ body {
   clear: left;
   width: 30%;
   margin-left: 70%;
+    word-wrap: break-word
   
 }
 
@@ -87,6 +92,9 @@ body {
 
 
 }
+
+
+
 
 
 /* Simple Responsive Framework. */
