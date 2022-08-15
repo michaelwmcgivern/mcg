@@ -7,4 +7,3 @@
   };
   window.helloSpeaker = helloSpeaker;
 })(window);
-
